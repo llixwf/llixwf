@@ -10,6 +10,8 @@ I am a Flutter developer who loves building apps and learning AI technologies.
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=llixwf&show_icons=true&theme=radical)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llixwf&layout=compact&theme=radical)
+
+
 
 
